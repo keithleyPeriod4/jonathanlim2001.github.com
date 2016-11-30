@@ -23,7 +23,8 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: rgb(255,0,255)
+    color: rgb(255,0,255);
+    background-color: rgb(255,255,0);
 }
 p {
     font-size: 1.5em;
