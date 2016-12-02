@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwizvayemtbQAhUYwGMKHXqCAxgQjBwIBA&url=http%3A%2F%2Fthebestoflol.com%2Fupload%2F20141018155451uid52.png&psig=AFQjCNEhXO1to1i4nCzuCQv5e8H9esFbUA&ust=1480791925696448")
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -19,7 +20,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
+h1,.top {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: rgb(255,0,255);
@@ -45,3 +46,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.gif{
+    text-align: center
+    
+    
+    
+}
+
