@@ -25,12 +25,14 @@ h1,.top {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: rgb(255,0,255);
     background-color: rgb(255,255,0);
+    border: solid;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
     background-color: rgb(255,255,0);
+    border: solid;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -48,4 +50,5 @@ ul.posts li {
 }
 .gif{
     text-align: center
+    border: solid;
 }
