@@ -48,6 +48,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+nav{
+    border-bottom: 1px solid #d5d5d5;
+}
 .gif{
     text-align: center
     
