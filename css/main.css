@@ -3,6 +3,7 @@ body {
     width: 70%;
     background: url("https://i.ytimg.com/vi/YtkjG8H8RU4/maxresdefault.jpg") no-repeat center;
     background-size: contain;
+    background-attachment: scroll;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
