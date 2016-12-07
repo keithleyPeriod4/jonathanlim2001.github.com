@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image: url("https://i.ytimg.com/vi/YtkjG8H8RU4/maxresdefault.jpg")
+    background: url("https://i.ytimg.com/vi/YtkjG8H8RU4/maxresdefault.jpg") no-repeat center;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
