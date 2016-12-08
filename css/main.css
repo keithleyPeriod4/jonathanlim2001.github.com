@@ -25,16 +25,16 @@ a:hover {
 h1,.top {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: rgb(255,0,255);
-    background-color: rgb(255,255,0);
-    border: solid 20px #00FFB2  ;
+    color: gray;
+    background-color: black;
+    border: solid 20px #990000  ;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
-    background-color: rgb(255,255,0);
-    border: solid 20px #00FFB2  
+    color: gray;
+    background-color: black;
+    border: solid 20px #990000  
 }
 footer {
     border-top: 1px solid #d5d5d5;
