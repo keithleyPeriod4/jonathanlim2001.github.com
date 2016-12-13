@@ -22,14 +22,14 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1,.top,.table{
+h1,.top{
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: gray;
     background-color: black;
     border: solid 20px #990000  ;
 }
-p{
+p,.table{
     font-size: 1.5em;
     line-height: 1.4em;
     color: gray;
