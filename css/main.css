@@ -29,7 +29,7 @@ h1,.top{
     background-color: black;
     border: solid 20px #990000;
 }
-p,.table{
+p{
     font-size: 1.5em;
     line-height: 1.4em;
     color: gray;
@@ -53,9 +53,17 @@ ul.posts li {
 nav{
     border-bottom: 1px solid #d5d5d5;
 }
-.gif,.table{
+.gif{
     text-align: center;
     
+}
+.table{
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: gray;
+    background-color: black;
+    border: solid 20px #990000;  
 }
 *{
 box-sizing: border-box;}
