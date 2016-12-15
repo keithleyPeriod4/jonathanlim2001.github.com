@@ -34,7 +34,7 @@ p,.table{
     line-height: 1.4em;
     color: gray;
     background-color: black;
-    border: solid 20px #990000  
+    border: solid 20px #990000;  
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -54,7 +54,7 @@ nav{
     border-bottom: 1px solid #d5d5d5;
 }
 .gif, .table{
-    text-align: center
+    text-align: center;
     
 }
 *{
